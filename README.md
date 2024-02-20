@@ -15,8 +15,8 @@ Este proyecto es un sitio web para un restaurante de sushi, desarrollado como pa
 No se requiere ninguna instalación especial para ejecutar este proyecto. Simplemente abre el archivo index.html en tu navegador web.
 
 ## Uso
-Navega por las diferentes secciones del sitio haciendo clic en los enlaces del menú.
-Haz clic en las imágenes de la galería para verlas en tamaño completo.
+- Navega por las diferentes secciones del sitio haciendo clic en los enlaces del menú.
+- Haz clic en las imágenes de la galería para verlas en tamaño completo.
 
 ## Contribución
 Si deseas contribuir a este proyecto, ¡no dudes en hacerlo! Puedes abrir un problema o enviar una solicitud de extracción con tus mejoras.
