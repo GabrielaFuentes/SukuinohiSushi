@@ -2,9 +2,9 @@
 Este proyecto es un sitio web para un restaurante de sushi, desarrollado como parte de mi aprendizaje en desarrollo web. Utilicé HTML, CSS y JavaScript para crear un sitio web interactivo y atractivo para los usuarios.
 
 ## Características
-Página de inicio con información sobre el restaurante.
-Galería de imágenes de los platos destacados.
-Menú interactivo con diferentes tipos de sushi.
+- Página de inicio con información sobre el restaurante.
+- Galería de imágenes de los platos destacados.
+- Menú interactivo con diferentes tipos de sushi.
 
 ## Tecnologías utilizadas
 - HTML5
